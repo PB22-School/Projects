@@ -1,0 +1,24 @@
+[
+    [
+      {
+        "name": "Test",
+        "description":"Come up with more examples",
+        "extras_meta": 1,
+        "extras": ["With exercise goals", "With computer science goals"],
+        "extras1": ["that includes 3 extras","0 extras","1 extra"],
+        "weight": [4,0.5,1]
+      },
+      {
+        "name": "Test2",
+        "description":"Do something that doesn't require randomization",
+        "extras": "",
+        "weight": 2
+      },
+      {
+        "name": "Test3",
+        "description":"Do something that only uses extras",
+        "extras": ["without extras1", "without extras_meta"],
+        "weight": [1,2]
+      }
+    ]
+  ]

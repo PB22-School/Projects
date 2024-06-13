@@ -1,0 +1,16 @@
+[
+    [
+      {
+        "category": "Example",
+        "location": "example.json",
+        "min": 1,
+        "max": 4
+      },
+      {
+        "category": "Example1",
+        "location": "example1.json",
+        "min": 1,
+        "max": 4
+      }
+    ]
+  ]

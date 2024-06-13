@@ -1,0 +1,28 @@
+[
+    [
+      {
+        "name": "Test",
+        "description":"Create a description..",
+        "extras_meta": 1,
+        "extras": ["With cool stuff", "With sweet stuff"],
+        "extras1": ["that's 100 words long","that's 300 words long","that's 600 words long"],
+        "weight": [1,2,4]
+      },
+      {
+        "name": "Test2",
+        "description":"Create a bio..",
+        "extras_meta": 1,
+        "extras": ["With cool stuff", "With sweet stuff"],
+        "extras1": ["that's 100 words long","that's 300 words long","that's 600 words long"],
+        "weight": [1,2,4]
+      },
+      {
+        "name": "Test3",
+        "description":"Create a title..",
+        "extras_meta": 1,
+        "extras": ["With cool stuff", "With sweet stuff"],
+        "extras1": ["that's 100 words long","that's 300 words long","that's 600 words long"],
+        "weight": [1,2,4]
+      }
+    ]
+  ]
